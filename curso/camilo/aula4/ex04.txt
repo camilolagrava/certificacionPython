@@ -1,0 +1,10 @@
+a. wc ex03.txt 27 lineas y 135
+b. 1- grep "^a" ex03.txt
+   2- grep "a" ex03.txt
+c. grep "^A" nombre_mo.txt >> nombreA.txt
+d. grep -v "^A" nombre_mo.txt >> sinA.txt
+e. diff nombre_mo.txt sinA.txt  
+ 2,3d1
+ < Alexandra 
+ < Alvaro
+
