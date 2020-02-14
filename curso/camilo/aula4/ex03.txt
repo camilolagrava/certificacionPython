@@ -1,0 +1,27 @@
+a. camilo-VirtualBox
+b. vie feb 14 07:51:19 -04 2020
+c. /bin/cp
+d. 1- find .
+	muetsra todos los ditrectorios y subdirectorios de la direccion actual
+   2- find -maxdepth [un numero]
+	te permite establecer el rango de la profundidad de busqueda
+   3- find -maxdepth 2 ! (para metro de busqueda)
+	excluye los resultados de los parametros de busqueda
+   4- find -name 'string'
+	un parametro de busqueda que busca ek nombre de el archivo
+   5- find -type [algun parametro determinado]
+	solo muestra los archivos del mismo tipo del parametro
+   6- find -type t -name '.*'
+	muetsra archivos ocultos
+   7- find - tipe f -name perm 0625
+	muestra permiso
+   8- find -user Camilo
+	busca por usuario
+   9- find -ntime [algun numero]
+	busca por tiempo de edicion
+   10- find . -size
+	busca por tamanno
+e. find . -name '*.txt'
+
+ 
+
