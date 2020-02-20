@@ -1,0 +1,5 @@
+Nuestro proyecto consistirá en desarrollar una pagina web en la que se podrán registrar dos tipos de usuarios. Primero, los profesionales que buscan un empleo de acuerdo con sus aptitudes y deseos; segundo, las empresas que buscan vacantes para diferentes puestos que requieran. Esto tendrá como fin optimizar y facilitar la demanda y oferta de trabajos en Bolivia. 
+
+Ya que tenemos que ser conscientes de las dificultades que las empresas se ven inmersas para encontrar las características ideales en un trabajador. Por otro lado, están los candidatos buscando su trabajo ideal, siendo o no profesionales las personas pueden encontrar trabajo en distintas áreas y poder tener bastante ayuda en todo tipo de trabajo que cualquier persona pueda encontrar. 
+
+Esta página web puede llegar a ser la número uno para la búsqueda de empleos en Bolivia. Siempre buscaremos lo mejor para los candidatos, permitiendo el acceso libre a miles de empleos, publicar su CV e investigar sobre las empresas. A diario, conectaremos a millones de personas con nuevas oportunidades.
